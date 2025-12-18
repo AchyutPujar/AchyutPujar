@@ -45,6 +45,11 @@
 ![System Design](https://img.shields.io/badge/-System%20Design-FF4088?style=flat&logo=diagram&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=deeplearning&logoColor=white)
 
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AchyutPujar&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AchyutPujar&theme=holi&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AchyutPujar&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)\
+
 ---
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AchyutPujar.AchyutPujar)](https://github.com/AchyutPujar)
