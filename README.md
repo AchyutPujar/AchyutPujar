@@ -46,9 +46,9 @@
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=deeplearning&logoColor=white)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AchyutPujar&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Achyut's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchyutPujar&theme=holi&hide_border=false&include_all_commits=true&count_private=true&cache_seconds)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AchyutPujar&theme=holi&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AchyutPujar&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)\
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AchyutPujar&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 ---
 
